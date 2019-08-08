@@ -4,8 +4,8 @@
 <channels>
 <channel>
 <name>Jonatas</name>
-<thumbnail>https://raw.githubusercontent.com/NeTVStream/Clientes/master/00Home</thumbnail>
-<externallink></externallink>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/NeTVStream/Clientes/master/00Home</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
